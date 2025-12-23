@@ -1,4 +1,3 @@
-# Medical_Chatbot
 # Medical Q&A Chatbot 🏥
 
 A specialized medical question-answering chatbot using the MedQuAD dataset with semantic search, medical entity recognition, and an interactive Streamlit interface.
